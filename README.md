@@ -1,9 +1,8 @@
-# 🌟 Mastersolis Infotech UI/UX Design 🌟
+# 🌟 Mastersolis Infotech UI/UX Design (Created with Figma) 🌟
 
-Welcome to the UI/UX design project for **Mastersolis Infotech**, created as part of the **Cicada Overnight Hackathon**. This repository showcases a clean, modern, and user-friendly design that includes several key pages for an intuitive user experience.
+Welcome to the UI/UX design project for **Mastersolis Infotech**, created using **Figma**. This repository showcases a clean, modern, and user-friendly design that includes several key pages for an intuitive user experience.
 
 ---
-
 ## 📄 Pages Included
 
 - **🔑 Login/Signup Page**: Enables users to register an account or log in to access the platform.
